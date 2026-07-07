@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Gruvbox Light Zed for Chrome",
+    "theme": {
+        "colors": {
+            "frame": [236, 221, 180],
+            "frame_inactive": [236, 221, 180],
+
+            "tab_text": [40, 40, 40],
+            "tab_background_text": [95, 86, 80],
+
+            "toolbar": [217, 200, 164],
+            "bookmark_text": [40, 40, 40],
+
+            "ntp_background": [251, 241, 199],
+            "ntp_text": [40, 40, 40]
+        },
+        "tints": { "buttons": [-1.0, 0.0, 0.25] },
+        "properties": {}
+    }
+}
