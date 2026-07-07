@@ -12,7 +12,6 @@ A Google Chrome theme port of the Gruvbox color palette, specifically refined fo
 
 - `gruvbox-dark/`: Theme files for Dark mode
 - `gruvbox-light/`: Theme files for Light mode
-- `tools/`: Development scripts and reference colors
 
 ### Installation
 
@@ -38,7 +37,6 @@ A Google Chrome theme port of the Gruvbox color palette, specifically refined fo
 
 - `gruvbox-dark/`: ダークモード用テーマ
 - `gruvbox-light/`: ライトモード用テーマ
-- `tools/`: 開発用スクリプトおよびカラー定義メモ
 
 ### インストール方法
 
