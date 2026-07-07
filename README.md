@@ -1,4 +1,4 @@
-# chrome-theme-gruvbox-zed
+# gruvbox-zed-for-chrome
 
 [English](#english) | [日本語](#日本語)
 
