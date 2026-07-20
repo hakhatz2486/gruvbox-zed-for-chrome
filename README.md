@@ -1,6 +1,6 @@
 # gruvbox-zed-for-chrome
 
-[English](#english) | [日本語](#日本語)
+[English](#English) | [日本語](#日本語)
 
 ---
 
