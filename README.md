@@ -31,7 +31,7 @@ A Google Chrome theme port of the Gruvbox color palette, specifically refined fo
 
 ## 日本語
 
-エディタ「Zed」向けに調整されたGruvboxのカラーパレットを、Google Chrome用に移植したテーマです。ダークモードとライトモードの2種類を提供します。
+Zedエディタ向けに調整されたGruvboxのカラーパレットを、Google Chrome用に移植したテーマです。ダークモードとライトモードの2種類を提供します。
 
 ### ディレクトリ構成
 
